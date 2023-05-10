@@ -45,6 +45,8 @@
 		80835E5D2A0BE37C004741B5 /* SifakaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SifakaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		80835E612A0BE37C004741B5 /* SifakaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SifakaUITests.swift; sourceTree = "<group>"; };
 		80835E632A0BE37C004741B5 /* SifakaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SifakaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		80835E702A0BE6E9004741B5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		80835E712A0BE6F5004741B5 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,8 @@
 		80835E392A0BE37B004741B5 = {
 			isa = PBXGroup;
 			children = (
+				80835E712A0BE6F5004741B5 /* LICENSE.md */,
+				80835E702A0BE6E9004741B5 /* README.md */,
 				80835E442A0BE37B004741B5 /* Sifaka */,
 				80835E562A0BE37C004741B5 /* SifakaTests */,
 				80835E602A0BE37C004741B5 /* SifakaUITests */,
