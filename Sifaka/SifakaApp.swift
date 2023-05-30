@@ -12,6 +12,8 @@ struct SifakaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .presentedWindowToolbarStyle(UnifiedWindowToolbarStyle())
+                .navigationTitle("Cosine Connect")
         }
     }
 }
